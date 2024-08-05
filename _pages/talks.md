@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 ---
 
-## TALKS
+### TALKS
 
 **E.G.A. Antonini**, A. Di Bella, L. Drouet, M. Tavoni, “The role of hydropower in renewable-rich energy systems under climate change”, International Energy Workshop, Bonn, Germany, 2024. [[pdf](/talks/Enrico_Antonini-IEW2024-slides.pdf)]
 
@@ -31,7 +31,7 @@ author_profile: true
 
 **E.G.A. Antonini**, D.A. Romero, C.H. Amon, “Implementation and simulation of wind turbines with the OpenFOAM solver using the actuator disk approach”, 6th MIE Symposium, University of Toronto, Toronto, ON, Canada, 2015.
 
-## POSTERS
+### POSTERS
 
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “Historical analysis of global distribution of and trends in wind droughts”, International Conference on Energy and Meteorology, Padova, Italy, 2023. [[pdf](/talks/Enrico_Antonini-ICEM2023-poster.pdf)]
 

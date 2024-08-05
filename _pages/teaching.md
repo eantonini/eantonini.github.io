@@ -5,19 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## GUEST LECTURER FOR:
+### GUEST LECTURER FOR:
 
 [Wind Power](https://www.mie.utoronto.ca/programs/graduate/courses/) – Graduate course at the University of Toronto, Fall 2018
 
 I presented the principles of fluid mechanics of wind farms with emphasis on wakes and their interaction with the atmospheric boundary layer. I developed basic concepts in a seminar-style presentation and used real wind farm examples to reinforce these concepts.
 
-## GUEST SPEAKER FOR:
+### GUEST SPEAKER FOR:
 
 [Summer STARS](https://case.carnegiescience.edu/student-programs/summer-stars/) – Carnegie Academy for Science Education (CASE), July 2021
 
 CASE’s Summer STARS is a summer internship program for high school students where they work on a mini-research project, exploring STEM careers, and completing an oral presentation to peer researchers, teachers, parents, and school administrators. I was invited to speak about my research at Carnegie and career paths and opportunities in STEM fields.
 
-## TEACHING ASSISTANT FOR:
+### TEACHING ASSISTANT FOR:
 
 [Fluid Mechanics I](https://engineering.calendar.utoronto.ca/course/mie312h1) – Undergraduate course at the University of Toronto, Fall 2016
 
@@ -35,7 +35,7 @@ I marked students’ assignments that included problem sets and reports of simul
 
 I designed and marked students’ assignments that included three problem sets. I designed and improved the problems of each assignment with respect to previous years, designed marking schemes, provided students with detailed feedback, and showed assignments solution.
 
-## CO-SUPERVISED STUDENTS:
+### CO-SUPERVISED STUDENTS:
 
 [Alice Di Bella](https://www.linkedin.com/in/alice-di-bella/) – PhD at the Polytechnic University of Milan, 2023-2025
 
