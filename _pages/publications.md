@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2024
 
+T.H. Ruggles, E. Virgüez, N. Reich, J. Dowling, H. Bloomfield, **E.G.A. Antonini**, S.J. Davis, N.S. Lewis, K. Caldeira, “[Planning reliable wind- and solar-based electricity systems]()”, Advances in Applied Energy, *in press*, 2024. [[pdf](/papers/)]
+
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “[Identification of reliable locations for wind power generation through a global analysis of wind droughts](https://doi.org/10.1038/s43247-024-01260-7)”, Communications Earth & Environment 5 (1), 103, 2024. [[pdf](/papers/Antonini et al. (2024), Identification of reliable locations for wind power generation through a global analysis of wind droughts.pdf)]
 
 D.A. Romero, S. Hasanpoor, **E.G.A. Antonini**, C.H. Amon, “[Predicting wind farm wake losses with deep convolutional hierarchical encoder–decoder neural networks](https://doi.org/10.1063/5.0168973)”, APL Machine Learning 2 (1), 016111, 2024. [[pdf](/papers/Romero et al. (2024), Predicting wind farm wake losses with deep convolutional hierarchical encoder–decoder neural networks.pdf)]
