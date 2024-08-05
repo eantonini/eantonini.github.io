@@ -13,7 +13,7 @@ This research project aimed at understanding the physics of wind power extractio
 
 ## Optimizing wind farm layouts using computational fluid dynamical models and adjoint methods (2014-2019)
 
-<img src='/Wind-farm-on-complex-terrain-1024x576.jpg'>
+<img src='/images/Wind-farm-on-complex-terrain-1024x576.jpg'>
 
 During my PhD program, I conducted research on computational modeling and design optimization of wind farms. My contributions have furthered accurate modeling of wake effects in wind farms and CFD-based layout optimization. I analyzed the effect of turbulence modeling on CFD simulations of wind turbine wakes and provided useful insights and recommendations for their use ([Antonini et al. 2016](https://doi.org/10.1115/IMECE2016-67353), [2018a](https://doi.org/10.1115/1.4039377)). Moreover, I revealed the contribution of wind direction uncertainty to the discrepancies usually found between CFD predictions of wake wind speed and field measurements ([Antonini et al. 2019](https://doi.org/10.1016/j.renene.2018.10.084)). To optimize wind farm layouts and integrate CFD models in a design methodology, I developed and implemented an innovative adjoint method for gradient calculations within the framework of a gradient-based optimization ([Antonini et al. 2018b](https://doi.org/10.1016/j.apenergy.2018.07.076)). The developed optimization methodology integrated CFD models and overcame the high computational costs of a CFD-based optimization. This unique methodology enabled for the first time the optimization of wind farms in complex terrains with realistic ambient conditions and flow structures ([Antonini et al. 2020](https://doi.org/10.1016/j.apenergy.2019.114426)).
 
