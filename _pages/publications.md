@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 ## 2024
 
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “[Identification of reliable locations for wind power generation through a global analysis of wind droughts](https://doi.org/10.1038/s43247-024-01260-7)”, Communications Earth & Environment 5 (1), 103, 2024. [[pdf](/files/Antonini et al. (2024), Identification of reliable locations for wind power generation through a global analysis of wind droughts.pdf)]
