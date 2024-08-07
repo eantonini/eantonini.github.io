@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 
-T.H. Ruggles, E. Virgüez, N. Reich, J. Dowling, H. Bloomfield, **E.G.A. Antonini**, S.J. Davis, N.S. Lewis, K. Caldeira, “[Planning reliable wind- and solar-based electricity systems]()”, **_Advances in Applied Energy_**, *in press*, 2024. [[pdf](/papers/)]
+T.H. Ruggles, E. Virgüez, N. Reich, J. Dowling, H. Bloomfield, **E.G.A. Antonini**, S.J. Davis, N.S. Lewis, K. Caldeira, “[Planning reliable wind- and solar-based electricity systems]()”, **_Advances in Applied Energy_**, *in press*, 2024. [[pdf]()]
 
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “[Identification of reliable locations for wind power generation through a global analysis of wind droughts](https://doi.org/10.1038/s43247-024-01260-7)”, **_Communications Earth & Environment_** 5 (1), 103, 2024. [[pdf](/papers/Antonini et al. (2024), Identification of reliable locations for wind power generation through a global analysis of wind droughts.pdf)]
 

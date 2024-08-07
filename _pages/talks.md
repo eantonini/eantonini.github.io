@@ -11,7 +11,7 @@ author_profile: true
 
 **E.G.A. Antonini**, A. Di Bella, L. Drouet, M. Tavoni, “More than a century of weather- and climate-dependent power supply and demand time series”, *Openmod Workshop*, Grenoble, France, 2024. [[pdf](/talks/Enrico_Antonini-Openmod2024-slides.pdf)]
 
-**E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “Historical analysis of global distribution of and trends in wind droughts”, *EGU General Assembly*, Vienna, Austria, 2023.
+**E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “Historical analysis of global distribution of and trends in wind droughts”, *EGU General Assembly*, Vienna, Austria, 2023. [[pdf](/talks/Enrico_Antonini-EGU2023-slides.pdf)]
 
 **E.G.A. Antonini**, K. Caldeira, “Geophysical constraints to large wind farm development”, *NAWEA/WindTech Conference*, University of Delaware, Newark, DE, USA, 2022.
 
