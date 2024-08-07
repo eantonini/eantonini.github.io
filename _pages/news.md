@@ -8,6 +8,8 @@ redirect_from:
   - /press.html
 ---
 
+<img src='/images/In-the-news-1024x576.png'>
+
 “[Climate change, il rischio che cambino i venti](https://www.anra.it/article/3932/climate-change-il-rischio-che-cambino-i-venti)”, ANRA - Associazione Nazionale dei Risk Manager e Responsabili Assicurazioni Aziendali, Jul 10, 2024.
 
 “[Discovering wind droughts and their impacts on energy supply](https://www.climateforesight.eu/interview/where-the-wind-blows-navigating-wind-droughts/)”, Foresight, Jun 12, 2024.
