@@ -13,11 +13,11 @@ author_profile: true
 
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “Historical analysis of global distribution of and trends in wind droughts”, *EGU General Assembly*, Vienna, Austria, 2023. [[pdf](/talks/Enrico_Antonini-EGU2023-slides.pdf)]
 
-**E.G.A. Antonini**, K. Caldeira, “Geophysical constraints to large wind farm development”, *NAWEA/WindTech Conference*, University of Delaware, Newark, DE, USA, 2022.
+**E.G.A. Antonini**, K. Caldeira, “Geophysical constraints to large wind farm development”, *NAWEA/WindTech Conference*, University of Delaware, Newark, DE, USA, 2022. [[pdf](/talks/Enrico_Antonini-NAWEA2022-slides.pdf)]
 
-**E.G.A. Antonini**, T. Ruggles, D.J. Farnham, K. Caldeira, “The quantity-quality transition in the value of expanding wind and solar power generation”, *Macro Energy Systems workshop*, Stanford University, Stanford, CA, USA, 2022.
+**E.G.A. Antonini**, T. Ruggles, D.J. Farnham, K. Caldeira, “The quantity-quality transition in the value of expanding wind and solar power generation”, *Macro Energy Systems workshop*, Stanford University, Stanford, CA, USA, 2022. [[pdf](/talks/Enrico_Antonini-MES2022-slides.pdf)] 
 
-**E.G.A. Antonini**, T. Ruggles, D.J. Farnham, K. Caldeira, “Meeting US electricity demand with distributed wind and solar generation: System flexibility drives optimal siting”, *ASME International Mechanical Engineering Congress and Exposition*, Virtual conference, USA, 2021. [[mp4](/talks/Enrico_Antonini-IMECE2021-presentation.mp4)]
+**E.G.A. Antonini**, T. Ruggles, D.J. Farnham, K. Caldeira, “Meeting US electricity demand with distributed wind and solar generation: System flexibility drives optimal siting”, *ASME International Mechanical Engineering Congress and Exposition*, Virtual conference, USA, 2021. [[mp4](/talks/Enrico_Antonini-IMECE2021-presentation.mp4)] [[pdf](/talks/Enrico_Antonini-IMECE2021-slides.pdf)]
 
 **E.G.A. Antonini**, K. Caldeira, “How atmospheric pressure gradients and Coriolis forces control the power density of large wind farms”, *Wind Energy Science Conference*, Hannover, Germany, 2021. [[mp4](/talks/Enrico_Antonini-WESC2021-presentation.mp4)]
 
@@ -38,6 +38,8 @@ author_profile: true
 K. Caldeira, A. Li, E. Virgüez, **E.G.A. Antonini**, J.A. Dowling, L. Duan, M.O. Dioha, N. Reich, N.S. Lewis, S.J. Davis, T. Ruggles, S. Ashfaq, “A Macro Energy Modeling Framework For Transparent Analysis of Implications of Energy System Assumptions”, *AGU Fall Meeting*, Chicago, IL, USA, 2022.
 
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, K. Caldeira, “Characterizing geophysical limits to wind power reliability”, *AGU Fall Meeting*, Chicago, IL, USA, 2022.
+
+**E.G.A. Antonini**, T. Ruggles, D.J. Farnham, K. Caldeira, “The quantity-quality transition in the value of expanding wind and solar power generation”, *Macro Energy Systems workshop*, Stanford University, Stanford, CA, USA, 2022. [[pdf](/talks/Enrico_Antonini-MES2022-poster.pdf)]
 
 **E.G.A. Antonini**, K. Caldeira, “Replenishing the wind: Atmospheric physics explains limits to energy extraction and spatial constraints in large-scale expansion of wind power plants”, *AGU Fall Meeting*, New Orleans, LA, USA, 2021. [[pdf](/talks/Enrico_Antonini-AGU2021-poster-Wind.pdf)]
 
