@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2024
 
+**E.G.A. Antonini**, A. Di Bella , I. Savelli , L. Drouet , M. Tavoni, "[Weather- and climate-driven power supply and demand time series for power and energy system analyses](https://doi.org/10.1038/s41597-024-04129-8)", **_Scientific Data_** 11, 1324, 2024. [[pdf](papers/Antonini et al. (2024), Weather- and climate-driven power supply and demand time series for power and energy system analyses.pdf)] [[data](https://doi.org/10.5281/zenodo.12634069)]
+
 T.H. Ruggles, E. Virgüez, N. Reich, J. Dowling, H. Bloomfield, **E.G.A. Antonini**, S.J. Davis, N.S. Lewis, K. Caldeira, “[Planning reliable wind- and solar-based electricity systems](https://doi.org/10.1016/j.adapen.2024.100185)”, **_Advances in Applied Energy_** 15, 100185, 2024. [[pdf](/papers/Ruggles et al. (2024), Planning reliable wind- and solar-based electricity systems.pdf)]
 
 **E.G.A. Antonini**, E. Virgüez, S. Ashfaq, L. Duan, T.H. Ruggles, K. Caldeira, “[Identification of reliable locations for wind power generation through a global analysis of wind droughts](https://doi.org/10.1038/s43247-024-01260-7)”, **_Communications Earth & Environment_** 5 (1), 103, 2024. [[pdf](/papers/Antonini et al. (2024), Identification of reliable locations for wind power generation through a global analysis of wind droughts.pdf)]
